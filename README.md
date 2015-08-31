@@ -4,6 +4,8 @@ Displays printer progress while printing on a [Adafruit 16x2 LCD](http://www.ada
 to a [Rasperry Pi](http://www.raspberrypi.org). This makes it easy to see print progress without the need to look 
 at [OctoPrint](http://www.octoprint.org).
 
+![Piprint example](http://i.imgur.com/hzxQAVA.jpg "Piprint Example")
+
 ## Setup
 You must perform a bit of setup and configuration before using this plugin.
 
